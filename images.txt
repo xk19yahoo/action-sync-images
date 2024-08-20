@@ -1,4 +1,1 @@
-victoriametrics/vmagent:v1.102.0
-grafana/grafana:11.1.1
-percona/pmm-server:2.42.0
-lobehub/lobe-chat:v1.7.2
+keking/kkfileview:4.3.0
