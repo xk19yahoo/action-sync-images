@@ -38,6 +38,7 @@ jobs:
         do
             while :
             do
+                echo $line
                 skopeo sync --src=docker --dest=docker $line ${{ vars.DSTREPO }}/stor
                 if [ "$?" == "0" ]; then
                     break
