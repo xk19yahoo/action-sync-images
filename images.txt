@@ -5,7 +5,7 @@ postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.6
 ubuntu/squid:latest
-certbot/certbot
+certbot/certbot:latest
 nginx:latest
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
