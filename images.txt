@@ -1,2 +1,1 @@
-erlang:26.2.5.2
-
+sec4you/waf:nginx-ui
