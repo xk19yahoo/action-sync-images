@@ -1,1 +1,1 @@
-selenium/standalone-chrome:latest
+jenkins/jenkins:2.462.2-lts
