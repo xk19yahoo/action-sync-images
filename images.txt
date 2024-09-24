@@ -1,1 +1,1 @@
-sec4you/waf:nginx-ui
+selenium/standalone-chrome:latest
