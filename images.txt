@@ -1,1 +1,1 @@
-jenkins/jenkins:2.462.2-lts
+nginx:alpine3.20
