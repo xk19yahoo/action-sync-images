@@ -1,1 +1,1 @@
-nginx:alpine3.20
+php:8.3-rpm-alpine
