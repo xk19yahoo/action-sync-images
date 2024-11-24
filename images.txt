@@ -1,1 +1,2 @@
-php:8.3-fpm-alpine
+qemux/qemu-docker:6.08
+dockurr/windows:4.04
