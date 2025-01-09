@@ -1,1 +1,1 @@
-oracle/serverjre:8
+docker.io/oracle/serverjre:8
