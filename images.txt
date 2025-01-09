@@ -1,1 +1,1 @@
-apache/answer:1.4.1
+oracle/serverjre:8
