@@ -1,1 +1,1 @@
-docker.io/oracle/serverjre:8
+oraclelinux:7-slim
