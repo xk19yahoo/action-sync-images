@@ -1,2 +1,1 @@
-node:18.20.6
-node:20.18.3
+oraclelinux:8.4
